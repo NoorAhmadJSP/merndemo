@@ -8,8 +8,8 @@ int main()
                        {16, 17, 18, 19, 20},
                        {21, 22, 23, 24, 25}};
     // int array[3][3] = {{1, 2, 3,},
-    //                    {4, 5, 6},
-    //                    {7, 8, 9}};
+    //            rnjger        {4, 5, 6},
+    //                    {7, 8, 9}};.ll.;[;l]
 
     // In Vector we can find size of row and Col like this..
     // cout<<"Row "<<number.size()<<" Col "<<number[0].size();
